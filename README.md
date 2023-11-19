@@ -1,8 +1,6 @@
-# Personal Project Manager
+# Costs
 
-The Personal Project Manager is a React-based web application designed to help you efficiently manage your personal projects.
-
-## Table of Contents
+Costs is a React-based web application designed to help you efficiently manage your personal projects.
 
 <p align="center">
   <a href="#about-the-project">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,19 +17,17 @@ The Personal Project Manager is a React-based web application designed to help y
 
 ## About the Project
 
-The Personal Project Manager was developed to provide a simple and intuitive solution for managing your personal projects. The application allows you to create, view, and organize tasks effectively.
+Costs was developed to provide a simple and intuitive solution for managing your personal projects. The application allows you to create, view, and organize tasks effectively.
 
 ### Features
 
 - Create projects and assign tasks to each project.
-- View your tasks in a list or on a kanban board.
-- Mark the completion status of tasks.
-- Add notes and deadlines to tasks.
+- See your services.
 - ...
 
 ## Getting Started
 
-Follow the steps below to start the Personal Project Manager locally in your development environment.
+Follow the steps below to start Costs locally in your development environment.
 
 ### Prerequisites
 
