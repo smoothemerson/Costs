@@ -67,4 +67,4 @@ Esse projeto está sob a licença MIT.
 
 ## Contact
 
-For questions or suggestions, contact via email [emerson8096@gmail.com]
+For questions or suggestions, contact via email emerson8096@gmail.com
