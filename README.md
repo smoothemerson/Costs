@@ -37,22 +37,29 @@ Ensure you have Node.js and npm installed on your system.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/personal-project-manager.git
+```bash
+ git clone https://github.com/yourusername/personal-project-manager.git
 
-   ```
+```
 
 2. Navigate to the project directory:
 
+```bash
 cd personal-project-manager
+```
 
 3. Install dependencies:
 
+```bash
+
 npm install
+```
 
 4. Start the development server:
 
+```bash
 npm start
+```
 
 ## Licença
 
