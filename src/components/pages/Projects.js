@@ -1,21 +1,21 @@
-import { useLocation } from "react-router-dom";
+import { useLocation } from "react-router-dom"
 
-import { useState, useEffect } from "react";
+import { useState, useEffect } from "react"
 
-import Message from "../layout/Mensage";
-import Container from "../layout/Container";
+import Message from "../layout/Mensage"
+import Container from "../layout/Container"
 
-import styles from "./Projects.module.css";
-import LinkButton from "../layout/LinkButton";
-import ProjectCard from "../project/ProjectCard";
+import styles from "./Projects.module.css"
+import LinkButton from "../layout/LinkButton"
+import ProjectCard from "../project/ProjectCard"
 
 function Projects() {
-  const [projects, setProjects] = useState([]);
+  const [projects, setProjects] = useState([])
 
-  const location = useLocation();
-  let message = "";
+  const location = useLocation()
+  let message = ""
   if (location.state) {
-    message = location.state.message;
+    message = location.state.message
   }
 
   useEffect(() => {
@@ -27,11 +27,11 @@ function Projects() {
     })
       .then((resp) => resp.json())
       .then((data) => {
-        setProjects(data);
-        console.log(data);
+        setProjects(data)
+        console.log(data)
       })
-      .catch((err) => console.log(err));
-  }, []);
+      .catch((err) => console.log(err))
+  }, [])
 
   return (
     <div className={styles.project_container}>
@@ -54,7 +54,7 @@ function Projects() {
           ))}
       </Container>
     </div>
-  );
+  )
 }
 
-export default Projects;
+export default Projects

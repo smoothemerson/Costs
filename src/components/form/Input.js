@@ -1,4 +1,4 @@
-import styles from "./Input.module.css";
+import styles from "./Input.module.css"
 
 function Input({ type, text, name, placeholder, handleOnChange, value }) {
   return (
@@ -10,10 +10,10 @@ function Input({ type, text, name, placeholder, handleOnChange, value }) {
         id={name}
         placeholder={placeholder}
         onChange={handleOnChange}
-        defaultValue={value}
+        value={value}
       />
     </div>
-  );
+  )
 }
 
-export default Input;
+export default Input
