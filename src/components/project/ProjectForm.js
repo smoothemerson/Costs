@@ -7,7 +7,9 @@ import SubmitButton from "../form/SubmitButton"
 import styles from "./ProjectForm.module.css"
 
 function ProjectForm({ handleSubmit, btnText, projectData }) {
-  const [project, setProject] = useState(projectData || {})
+  const [project, setProject] = useState(
+    projectData || { name: "", budget: "" }
+  )
   const [categories, setCategories] = useState([])
 
   useEffect(() => {
@@ -69,7 +71,6 @@ function ProjectForm({ handleSubmit, btnText, projectData }) {
         handleOnChange={handleCategory}
         value={project.category ? project.category.id : ""}
       />
-
       <SubmitButton text={btnText} />
     </form>
   )
