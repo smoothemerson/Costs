@@ -12,11 +12,11 @@
       "id": 1
     },
     {
-      "name": "teste 2",
-      "budget": "200",
+      "name": "teste 2222",
+      "budget": "20000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
