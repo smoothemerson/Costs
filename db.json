@@ -24,7 +24,7 @@
     },
     {
       "name": "teste 3",
-      "budget": "300",
+      "budget": "30001",
       "category": {
         "id": "3",
         "name": "Design"
@@ -54,6 +54,17 @@
       "cost": 0,
       "services": [],
       "id": 5
+    },
+    {
+      "name": "projeto teste",
+      "budget": "1000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [
