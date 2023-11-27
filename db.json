@@ -7,8 +7,15 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 50,
+      "services": [
+        {
+          "name": "aws",
+          "cost": "50",
+          "description": "alguma coisa",
+          "id": "4cf43610-0107-4300-bf29-38d8620d7392"
+        }
+      ],
       "id": 1
     },
     {
@@ -51,8 +58,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 500,
+      "services": [
+        {
+          "name": "algum serviço aleatório",
+          "cost": "500",
+          "description": "alguma coisa",
+          "id": "baa6e591-45c7-4c7b-9785-806f3b347a2e"
+        }
+      ],
       "id": 5
     },
     {
