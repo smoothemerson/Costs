@@ -12,7 +12,7 @@ Costs is a React-based web application designed to help you efficiently manage y
 </p>
 
 <p align="center">
-  <img alt="projeto Costs" src="./github/Costs.png" width="100%">
+  <img alt="projeto Costs" src="./github/Costs.png" width="95%">
 </p>
 
 <p align="center">
