@@ -1,9 +1,12 @@
-import styles from "../project/ProjectCard.module.css";
+import styles from "../project/ProjectCard.module.css"
 
-import { BsFillTrashFill } from "react-icons/bs";
+import { BsFillTrashFill } from "react-icons/bs"
 
 function ServiceCard({ id, name, cost, description, handleRemove }) {
-  const remove = (e) => {};
+  const remove = (e) => {
+    e.preventDefault()
+    handleRemove(id, cost)
+  }
 
   return (
     <div className={styles.project_card}>
@@ -19,7 +22,7 @@ function ServiceCard({ id, name, cost, description, handleRemove }) {
         </button>
       </div>
     </div>
-  );
+  )
 }
 
-export default ServiceCard;
+export default ServiceCard
