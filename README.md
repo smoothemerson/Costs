@@ -12,6 +12,10 @@ Costs is a React-based web application designed to help you efficiently manage y
 </p>
 
 <p align="center">
+  <img alt="projeto Costs" src="./github/Costs.png" width="100%">
+</p>
+
+<p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
@@ -24,42 +28,6 @@ Costs was developed to provide a simple and intuitive solution for managing your
 - Create projects and assign tasks to each project.
 - See your services.
 - ...
-
-## Getting Started
-
-Follow the steps below to start Costs locally in your development environment.
-
-### Prerequisites
-
-Ensure you have Node.js and npm installed on your system.
-
-### Installation
-
-1. Clone the repository:
-
-```bash
- git clone https://github.com/yourusername/personal-project-manager.git
-
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd personal-project-manager
-```
-
-3. Install dependencies:
-
-```bash
-
-npm install
-```
-
-4. Start the development server:
-
-```bash
-npm start
-```
 
 ## Licença
 
