@@ -1,38 +1,38 @@
-# Costs
-
-Costs is a React-based web application designed to help you efficiently manage your personal projects.
+<h1 align="center"> Costs </h1>
 
 <p align="center">
-  <a href="#about-the-project">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contact">Contact</a>
-</p>
-
-<p align="center">
-  <img alt="projeto Costs" src="./github/preview.png" width="100%">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-## About the Project
+<br>
 
-Costs was developed to provide a simple and intuitive solution for managing your personal projects. The application allows you to create, view, and organize tasks effectively.
+<p align="center">
+  <img alt="Costs" src="./github/preview.png" width="100%">
+</p>
 
-### Features
+## 🚀 Technologies
 
-- Create projects and assign tasks to each project.
-- See your services.
-- ...
+This project was developed with the following technologies:
 
-## Licença
+- HTML and CSS
+- Javascript
+- React
+- Nodejs
+- Git and Github
 
-Esse projeto está sob a licença MIT.
+## 💻 Project
 
-## Contact
+- [Access the finished project, online](https://smoothemerson.github.io/Costs/)
+- [Access the playlist](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
 
-For questions or suggestions, contact via email emerson8096@gmail.com
+- Project given by MatheusBattisti in YouTube
+
+## :memo: License
+
+This project is under the MIT license.
