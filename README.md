@@ -28,7 +28,6 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-- [Access the finished project, online](https://smoothemerson.github.io/Costs/)
 - [Access the playlist](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
 
 - Project given by MatheusBattisti in YouTube
