@@ -28,9 +28,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-- [Access the playlist](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
-
-- Project given by MatheusBattisti in YouTube
+- [Access the playlist course](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
 
 ## :memo: License
 
